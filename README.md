@@ -1,6 +1,7 @@
 # learningGIT
 
-Date: 21-02-2019 Learning Git with Bucky the best guy eva!
+Phase 1 -> Date: 21-02-2019 Learning Git
+Phase 2 -> Date: 11-04-2020 Learning Git with Bucky the best guy eva!
 
 ## Basic CMD commands
 1. cd .. //to backward
