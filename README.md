@@ -17,6 +17,7 @@ git status //to get the list of unstaged files
  - Changes to be committed (Files added using git add command)
  - Changes not staged for commit (modified: <filenname>) 
  - Untracked files (Files NOT added using git add command)
+ 
 git add . //add all files to ready to get commited - Stage area
 git add <file name> //add specific file to ready to get commited - Stage area
 git commit -m "commit message" //to commit with message
