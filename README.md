@@ -1,6 +1,6 @@
 # learningGIT
 
-Date: 21-02-2019Learning Git with Bucky the besr guy eva!
+Date: 21-02-2019 Learning Git with Bucky the best guy eva!
 
 ## Basic CMD commands
 1. cd .. //to backward
@@ -16,9 +16,9 @@ Working Copy > Staging area > Repository
 ## Basic Git Commands:
 1. `git init` //to initialize  
 2. `git status` //to get the list of upstaged files
- - Changes to be committed (Files added using git add command)
- - Changes not staged for commit (`modified: <filenname>`) 
- - Untracked files (Files NOT added using git add command) 
+  - - Changes to be committed (Files added using git add command)
+  - - Changes not staged for commit (`modified: <filenname>`) 
+  - - Untracked files (Files NOT added using git add command) 
 3. `git add .` //add all files to ready to get committed - Stage area
 4. `git add <file name>` //add specific file to ready to get committed - Stage area
 5. `git commit -m "commit message"` //to commit with message
