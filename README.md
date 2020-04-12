@@ -2,6 +2,7 @@
 
 Date: 21-02-2019Learning Git with Bucky the besr guy eva!
 
+CMD commands
 1. cd .. //to backward
 2. cd e: //to chnage the Drive
 3. pwd //to get where you are
@@ -12,13 +13,12 @@ Date: 21-02-2019Learning Git with Bucky the besr guy eva!
 Git Workflow
 Working Copy > Staging area > Repository
 
+Git Commands:
 1. git init //to initialise  
 2. git status //to get the list of unstaged files
-
  - Changes to be committed (Files added using git add command)
  - Changes not staged for commit (modified: <filenname>) 
- - Untracked files (Files NOT added using git add command)
- 
+ - Untracked files (Files NOT added using git add command) 
 3. git add . //add all files to ready to get commited - Stage area
 4. git add <file name> //add specific file to ready to get commited - Stage area
 5. git commit -m "commit message" //to commit with message
