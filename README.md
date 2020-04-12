@@ -17,7 +17,7 @@ Git Commands:
 1. git init //to initialise  
 2. git status //to get the list of unstaged files
  - Changes to be committed (Files added using git add command)
- - Changes not staged for commit (modified: <filenname>) 
+ - Changes not staged for commit (modified: </filenname>/) 
  - Untracked files (Files NOT added using git add command) 
 3. git add . //add all files to ready to get commited - Stage area
 4. git add <file name> //add specific file to ready to get commited - Stage area
