@@ -27,10 +27,10 @@ Working Copy > Staging area > Repository
 8. git log --author="mukesh" //get list of commit by mukesh
 9. git diff //to find the difference between working copy and Repository
 10. git diff --staged //to find the difference between staged copy and Repository
-11. git rm <file name> //to remove any file from the repo
-12. git mv <file 1 name> <rename file name> //to rename any file instantly
-13. git mv <file name> <Folder name> //to move file from one folder to another
-14. git mv <file name> <Folder name>/<rename file name> //to move file from one folder to another with Rename
-15. git checkout -- <file name> //Copy this file from repo and replace to working copy
-16. git reset HEAD <file name> /Remove this file from staging area
+11. git rm <<file name>> //to remove any file from the repo
+12. git mv <<file 1 name>> <<rename file name>> //to rename any file instantly
+13. git mv <<file name>> <<Folder name>> //to move file from one folder to another
+14. git mv <<file name>> <<Folder name>>/<<rename file name>> //to move file from one folder to another with Rename
+15. git checkout -- <<file name>> //Copy this file from repo and replace to working copy
+16. git reset HEAD <<file name>> /Remove this file from staging area
 
