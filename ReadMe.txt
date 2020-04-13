@@ -34,4 +34,6 @@ Working Copy > Staging area > Repository
 13. `git mv <file name> <Folder name>` //to move file from one folder to another
 14. `git mv <file name> <Folder name>/<rename file name>` //to move file from one folder to another with Rename
 15. `git checkout -- <file name>` //Copy this file from repo and replace to working copy
-16. `git reset HEAD <file name>` /Remove this file from staging area
+16. `git reset HEAD <file name>` //Remove this file from staging area
+17. `git remote` //to check linked remote repo
+18. `git remote add <repoNickName> <repoURL>`
