@@ -36,4 +36,4 @@ Working Copy > Staging area > Repository
 15. `git checkout -- <file name>` //Copy this file from repo and replace to working copy
 16. `git reset HEAD <file name>` //Remove this file from staging area
 17. `git remote` //to check linked remote repo
-18. `git remote add <repoNickName> <repoURL>`
+18. `git remote add <repoNickName> <repoURL>` //To link the remote repo
