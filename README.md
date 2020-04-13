@@ -4,7 +4,7 @@
 Phase 1 -> Date: 21-02-2019 Learning Git
 Phase 2 -> Date: 11-04-2020 Learning Git with Bucky the best guy eva!
 
-## Basic CMD commands
+## Basic Git commands
 1. cd .. //to backward
 2. cd e: //to chnage the Drive
 3. pwd //to get where you are
@@ -14,6 +14,11 @@ Phase 2 -> Date: 11-04-2020 Learning Git with Bucky the best guy eva!
 
 ## Git Workflow
 Working Copy > Staging area > Repository
+
+## Git Credentials
+git config --global user.name "Firstname Lastname" //configure the user which will be used by Git
+git config --global user.email //configure the email address
+
 
 ## Basic Git Commands:
 1. `git init` //to initialize  
