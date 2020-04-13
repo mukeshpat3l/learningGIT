@@ -1,3 +1,4 @@
+
 # learningGIT
 
 Phase 1 -> Date: 21-02-2019 Learning Git
@@ -17,9 +18,9 @@ Working Copy > Staging area > Repository
 ## Basic Git Commands:
 1. `git init` //to initialize  
 2. `git status` //to get the list of upstaged files
-  - - Changes to be committed (Files added using git add command)
-  - - Changes not staged for commit (`modified: <filenname>`) 
-  - - Untracked files (Files NOT added using git add command) 
+ - Changes to be committed (Files added using git add command)
+ - Changes not staged for commit (`modified: <filenname>`) 
+ - Untracked files (Files NOT added using git add command) 
 3. `git add .` //add all files to ready to get committed - Stage area
 4. `git add <file name>` //add specific file to ready to get committed - Stage area
 5. `git commit -m "commit message"` //to commit with message
@@ -33,4 +34,8 @@ Working Copy > Staging area > Repository
 13. `git mv <file name> <Folder name>` //to move file from one folder to another
 14. `git mv <file name> <Folder name>/<rename file name>` //to move file from one folder to another with Rename
 15. `git checkout -- <file name>` //Copy this file from repo and replace to working copy
-16. `git reset HEAD <file name>` /Remove this file from staging area
+16. `git reset HEAD <file name>` //Remove this file from staging area
+17. `git remote` //to check linked remote repo
+18. `git remote add <repoNickName> <repoURL>` //To link the remote repo
+
+https://github.com/dictcp/awesome-git
